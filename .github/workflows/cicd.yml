@@ -29,3 +29,4 @@ jobs:
       - name: Run a one-line script
         run:
           local-notebook-path: .github/workflows/exe.yaml
+          
